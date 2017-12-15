@@ -1,0 +1,10 @@
+ul {
+  width: 100%;
+  background: pink;
+  display: flex;
+  justify-content: space-between; }
+  ul li {
+    width: 100%;
+    height: auto; }
+
+/*# sourceMappingURL=home.css.map */
